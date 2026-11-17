@@ -18,8 +18,8 @@
 
 <div align="center">
 
+<img src="screenshots/teach_math_screen.jpg" width="24%" />
 <img src="screenshots/spatial_concepts.jpg" width="24%" />
-<img src="screenshots/tap_big.jpg" width="24%" />
 <img src="screenshots/dragdrop_right.jpg" width="24%" />
 <img src="screenshots/rewards.jpg" width="24%" />
 
